@@ -1,0 +1,6 @@
+{
+  "name": "STD-Tracker",
+  "description": "Premium all-in-one student tracking system combining Pomodoro timers, habit heatmaps, academic planning, goals, and customized Gemini AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
